@@ -2,7 +2,7 @@
 
 ##Licence
 
-Copyright (C) 2015 Alex Booker
+Copyright (C) 2016 Alex Booker
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
